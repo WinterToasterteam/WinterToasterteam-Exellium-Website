@@ -150,3 +150,27 @@ p {
   background: url(Screenshot\ 2025-06-16\ 035434.png) repeat center;
 }
 
+.discord_link {
+  color: lightgoldenrodyellow;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: 3px solid lightgoldenrodyellow;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+  display: inline-block;
+  /*group button hover transition */
+  transition: color 0.3s, transform 0.2s;
+  /*glow effect*/
+  box-shadow: 0 0 40px gray;
+  background-image: url(button-background.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;  
+}
+
+.discord_link:hover {
+  color: black;
+  transform: scale(1.05);
+}
+
