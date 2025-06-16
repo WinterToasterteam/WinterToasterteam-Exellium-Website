@@ -29,7 +29,7 @@ box-shadow: 0 0 40px rgb(255, 213, 127);
   transition: color 0.3s, transform 0.2s;
   /*glow effect*/
   box-shadow: 0 0 40px gray;
-  background-image: url(button-background.jpg);
+  background-image: url(Exellium-WebsiteBackground.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;  
@@ -51,7 +51,7 @@ box-shadow: 0 0 40px rgb(255, 213, 127);
   cursor: pointer;
   margin-top: 20px;
   display: inline-block;
-  background-image: url(button-background.jpg);
+  background-image: url(Exellium-WebsiteBackground.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -149,7 +149,7 @@ background-image: url(Web-development-textbackground.jpg);
   transition: color 0.3s, transform 0.2s;
   /*glow effect*/
   box-shadow: 0 0 40px gray;
-  background-image: url(button-background.jpg);
+  background-image: url(Exellium-WebsiteBackground.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;  
