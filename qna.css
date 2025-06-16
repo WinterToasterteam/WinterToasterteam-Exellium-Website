@@ -17,10 +17,6 @@
   box-shadow: 0 0 40px gray;
 }
 
-.roblox_group p {
-  color: rgb(67,47,25)
-}
-
 /* Group button hover transition */
 .roblox_group:hover {
  color: black;
@@ -36,7 +32,7 @@
   cursor: pointer;
   margin-top: 20px;
   display: inline-block;
-  background-image: url(button-background.jpg);
+  background-image: url(Exellium-WebsiteBackground.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
